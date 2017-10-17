@@ -1,4 +1,4 @@
-AUTHOR Johan Viklund
+LABEL maintainer="johan.viklund@nbis.se"
 FROM ubuntu
 
 RUN mkdir /home/app
